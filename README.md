@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suryansh Pandey</h1>
 <h3 align="center">A passionate web developer from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on [Sangyan(Fraud Detection System)](https://github.com/abhishek09827/RJPOLICE_HACK_680_Sangyan_07)
+- 🔭 I’m currently working on [FitFork](https://github.com/suryansh-17/FitFork)
 
 - 🌱 I’m currently learning **ReactJs**
 
