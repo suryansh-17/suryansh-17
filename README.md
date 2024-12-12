@@ -75,7 +75,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryansh-17&show_icons=true&theme=dark&locale=en&layout=compact" alt="suryansh-17" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryansh-17&show_icons=true&theme=dark&locale=en" alt="suryansh-17" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh-17&" alt="suryansh-17" /></p>
+
 
 
