@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Vid Sync](https://github.com/suryansh-17/Vid-Sync)
 
-- 👨‍💻 All of my projects are available at [https://suryansh17.vercel.app/](https://suryansh17.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://suryansh17.me](https://suryansh17.me)
 
 - 💬 Ask me about **nextjs,react,ts,nodejs....**
 
